@@ -23,7 +23,5 @@ public class array {
     public static void main(String[] args) {
         array obj = new array();
         obj.arr_string();
-
-
     }
 }
